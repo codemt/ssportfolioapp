@@ -1321,12 +1321,12 @@ img.svg{
 	background-size: cover;
 	background-position: center;
 }
-.edrea_tm_portfolio_list li:nth-child(1) .edrea_tm_portfolio_image_main{background-image: url(..//img/portfolio/1.jpg);}
+/* .edrea_tm_portfolio_list li:nth-child(1) .edrea_tm_portfolio_image_main{background-image: url(..//img/portfolio/1.jpg);}
 .edrea_tm_portfolio_list li:nth-child(2) .edrea_tm_portfolio_image_main{background-image: url(..//img/portfolio/2.jpg);}
 .edrea_tm_portfolio_list li:nth-child(3) .edrea_tm_portfolio_image_main{background-image: url(..//img/portfolio/3.jpg);}
 .edrea_tm_portfolio_list li:nth-child(4) .edrea_tm_portfolio_image_main{background-image: url(..//img/portfolio/4.jpg);}
 .edrea_tm_portfolio_list li:nth-child(5) .edrea_tm_portfolio_image_main{background-image: url(..//img/portfolio/5.jpg);}
-.edrea_tm_portfolio_list li:nth-child(6) .edrea_tm_portfolio_image_main{background-image: url(..//img/portfolio/6.jpg);}
+.edrea_tm_portfolio_list li:nth-child(6) .edrea_tm_portfolio_image_main{background-image: url(..//img/portfolio/6.jpg);} */
 .edrea_tm_portfolio_wrapper_all[data-portfolio-style="default"] .edrea_tm_second_portfolio{display: none;}
 .edrea_tm_portfolio_wrapper_all[data-portfolio-style="filterable"] .edrea_tm_first_portfolio{display: none;}
 .edrea_tm_portfolio_wrapper_all[data-portfolio-style="filterable"] .edrea_tm_second_portfolio{display: block;}
