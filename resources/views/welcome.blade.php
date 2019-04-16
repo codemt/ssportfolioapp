@@ -135,11 +135,11 @@
 							<div class="leftbox">
 								<div class="about_image_wrap parallax" data-relative-input="true">
 									<div class="image layer" data-depth="0.1">
-										<img src="s5.jpg" alt="" width="400px" />
+										<img src="https://res.cloudinary.com/dazzqcenn/image/upload/v1555376764/s5.jpg" alt="" width="400px" />
 										<div class="inner"></div>
 									</div>
 									<div class="border layer" data-depth="0.2">
-										<img src="s5.jpg" alt="" width="400px" />
+										<img src="https://res.cloudinary.com/dazzqcenn/image/upload/v1555376764/s5.jpg" alt="" width="400px" />
 										<div class="inner"></div>
 									</div>
 								</div>
