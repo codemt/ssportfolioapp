@@ -153,7 +153,8 @@
                                     <p>Hi Guys! i am  <strong>Shaily Shrivastava</strong>.  I use people to get famous as a singer ,
                                          i have fooled many and i have been doing this since 1 year now. With 1 year of experience i have
                                           fooled many guys and become famous using them and then i throw them away. i have a boyfriend who is 
-                                          very far away so i spend time doing time pass with other boys.
+										  very far away so i spend time doing time pass with other boys. i feel guilty now. And would like to 
+										  apologize to the boys i have used in the past. Sorry Guys !!
                                     </p>
 								</div>
 								<div class="progress_bar_wrap_total">
