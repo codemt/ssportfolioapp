@@ -451,7 +451,7 @@ function edrea_tm_animate_text(){
 	var animateSpan			= jQuery('.edrea_tm_animation_text_word');
 	
 		animateSpan.typed({
-			strings: [" I'm Shaily Shrivastava", "scroll down to read my confession"],
+			strings: [" I'm Shaily Shrivastava", "scroll down to read my Life & confessions !"],
 			loop: true,
 			startDelay: 1e3,
 			backDelay: 2e3
@@ -725,7 +725,7 @@ function edrea_tm_animate_text(){
 	var animateSpan			= jQuery('.edrea_tm_animation_text_word');
 	
 		animateSpan.typed({
-			strings: [" I'm Shaily Shrivastava", "scroll down to read my confession!"],
+			strings: [" I'm Shaily Shrivastava", "scroll down to read my Life & confession!"],
 			loop: true,
 			startDelay: 1e3,
 			backDelay: 2e3

@@ -45,7 +45,7 @@
 				<div class="navigation_inner"> 
 					<div class="logo">
 						<a class="light_logo" href="index.html">
-                            <img src="https://res.cloudinary.com/dazzqcenn/image/upload/v1555375153/shaily.jpg" alt="" width="200px">
+                            <img src="https://res.cloudinary.com/dazzqcenn/image/upload/v1555375153/shaily.jpg" alt="" width="100px" height="100px">
                         </a>
 					</div>
 					<div class="nav_list_wrap">
@@ -55,7 +55,7 @@
 								<li><a href="#about">About</a></li>
 								<li><a href="#services">Services</a></li>
 								<li><a href="#portfolio">Portfolio</a></li>
-								<li><a href="#news">News</a></li>
+								<li><a href="#news">My Blog</a></li>
 								<li><a href="#contact">Contact</a></li>
 							</ul>
 						</div>
@@ -150,7 +150,7 @@
 									<h3><span>About Me</span></h3>
 								</div>
 								<div class="definition">
-                                    <p>Hi Guys! i am  <strong>Shaily Shrivastava</strong>. I use people to get famous as a singer ,
+                                    <p>Hi Guys! i am  <strong>Shaily Shrivastava</strong>.  I use people to get famous as a singer ,
                                          i have fooled many and i have been doing this since 1 year now. With 1 year of experience i have
                                           fooled many guys and become famous using them and then i throw them away. i have a boyfriend who is 
                                           very far away so i spend time doing time pass with other boys.
@@ -159,11 +159,11 @@
 								<div class="progress_bar_wrap_total">
 									<div class="edrea_tm_progress_wrap" data-size="small" data-round="c" data-strip="off">
 										<div class="edrea_tm_progress" data-value="95" data-color="#000">
-											<span><span class="label">Singing Skills</span><span class="number">95%</span></span>
+											<span><span class="label">Singing</span><span class="number">95%</span></span>
 											<div class="edrea_tm_bar_bg"><div class="edrea_tm_bar_wrap"><div class="edrea_tm_bar"></div></div></div>
 										</div>
 										<div class="edrea_tm_progress" data-value="85" data-color="#000">
-											<span><span class="label">Being a Bitch</span><span class="number">85%</span></span>
+											<span><span class="label">Flirting</span><span class="number">85%</span></span>
 											<div class="edrea_tm_bar_bg"><div class="edrea_tm_bar_wrap"><div class="edrea_tm_bar"></div></div></div>
 										</div>
 										<div class="edrea_tm_progress" data-value="75" data-color="#000">
